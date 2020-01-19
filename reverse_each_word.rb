@@ -1,4 +1,4 @@
 def reverse_each_word(str)
-  str.map { |i| i.reverse! }
+  str.map{ |i| i.reverse! }
   str
 end
